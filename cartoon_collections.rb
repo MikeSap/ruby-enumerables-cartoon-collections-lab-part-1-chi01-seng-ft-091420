@@ -15,5 +15,5 @@ def list_dwarves(array)
     i = 0
     puts i + ". " + char
     i += 1
-  end
+    end
   end
