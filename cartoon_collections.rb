@@ -14,6 +14,6 @@ def list_dwarves(array)
   array.each do |char|
     i = 1
     puts i.to_s + ". " + char
-    end
     i += 1
+    end
   end
